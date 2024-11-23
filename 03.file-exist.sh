@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ -e 02.if-function.sh ]
 then
-    echo "ok"
+    echo "file exists"
 else
-    echo "nok"
+    echo "file doesnot exists"
 fi
