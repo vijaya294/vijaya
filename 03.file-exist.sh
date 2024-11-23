@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ -e x.02.if-function.sh ]
+if [ -e 02.if-function.sh ]
 then
     echo "ok"
 else
