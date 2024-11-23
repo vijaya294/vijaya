@@ -1,3 +1,3 @@
 #!/bin/bash
 
-readlink FILE; echo $?       
+readlink 01.date-time.sh; echo $?       
